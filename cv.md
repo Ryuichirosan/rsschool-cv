@@ -5,7 +5,7 @@
 * **Email:** *luka.urushadze.2@btu.edu.ge*
 
 ## Goals
-Enthusiastic Georgian student wanting to learn **everything about everything**. Looking to become a DevOps engineer in the future and want to create the technologies which will make a world better place! *sounds clishe, don't believe me, just watch!*
+Enthusiastic Georgian student wanting to learn **everything about everything**. Looking to become a DevOps engineer in the future and want to create the technologies which will make a world better place! *sounds clishe? don't believe me, just watch!*
 
 Just started the exploration of the development, but have always thought that I was learning stuff easily, not waiting this to be any different.
 
